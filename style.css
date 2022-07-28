@@ -1,0 +1,4 @@
+.carousel-item img{
+    background-image: url(images/cover/cover-1.png);
+    filter: brightness(60%)
+}
