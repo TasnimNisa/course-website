@@ -1,4 +1,7 @@
 .carousel-item img{
     background-image: url(images/cover/cover-1.png);
-    filter: brightness(60%)
+    filter: brightness(90%)
 }
+.fa-solid fa-star{
+    color:yellow;
+} 
